@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Being-RAYtastic
-- 👀 I’m interested in Coding/Programming
+- 👀 I’m interested in Web Development
 - 💻 I am an Intermediate Python and HTML, CSS and Javascript Developer
 
 <!---
