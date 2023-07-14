@@ -1,13 +1,18 @@
-About Me:
+<h1>About Me:</h1>
 - 👋 Hi, I’m @Being-RAYtastic. You can call me 'Ray'
 - 🔭 I’m an Aspiring Software Enginner
 - 🐧 Linux Fanboy (I use Arch btw)
 
 ---
-Tech Stack:
+<h2>Tech Stack:</h2>
+
+Web Dev:
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html">
+- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css>
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js">
 
 ---
-<h3>My Stats</h3>
+<h2>My Stats</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Being-RAYtastic&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
 
