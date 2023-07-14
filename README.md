@@ -7,12 +7,16 @@
 <h2>Tech Stack:</h2>
 
 Web Dev:  <br>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width=40> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width=40> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width=40> 
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width=40>
 
+Backend Language:  <br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=40>
 ---
 <h2>My Stats</h2>
 
