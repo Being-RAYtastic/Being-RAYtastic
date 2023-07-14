@@ -7,9 +7,9 @@
 <h2>Tech Stack:</h2>
 
 Web Dev:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html">
-- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css>
-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width=40 height=40>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css width=40 height=40>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width=40 height=40>
 
 ---
 <h2>My Stats</h2>
