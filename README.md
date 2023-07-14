@@ -5,8 +5,9 @@ About Me:
 
 ---
 Tech Stack:
+
 ---
-<h1>My Stats</h1>
+<h3>My Stats</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Being-RAYtastic&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
 
