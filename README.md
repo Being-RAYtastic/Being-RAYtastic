@@ -6,10 +6,10 @@
 ---
 <h2>Tech Stack:</h2>
 
-<h3>Web Dev:</h3>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width=40>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width=40>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width=40>
+Web Dev:
+-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width=40>&nbsp;
+-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width=40>&nbsp;
+-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width=40>
 
 ---
 <h2>My Stats</h2>
