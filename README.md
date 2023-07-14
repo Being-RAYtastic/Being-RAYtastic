@@ -1,4 +1,4 @@
-<h1>About Me:</h1>
+About Me:
 - 👋 Hi, I’m @Being-RAYtastic. You can call me 'Ray'
 - 🔭 I’m an Aspiring Software Enginner
 - 🐧 Linux Fanboy (I use Arch btw)
