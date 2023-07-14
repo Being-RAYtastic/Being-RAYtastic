@@ -17,6 +17,7 @@ Web Dev:  <br>
 Backend Language:  <br>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=40>
+
 ---
 <h2>My Stats</h2>
 
