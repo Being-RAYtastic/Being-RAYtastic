@@ -1,10 +1,10 @@
-About Me:
+<b>About Me:</b>
 - 👋 Hi, I’m @Being-RAYtastic. You can call me 'Ray'
 - 🔭 I’m an Aspiring Software Enginner
 - 🐧 Linux Fanboy (I use Arch btw)
 
 ---
-<h2>Tech Stack:</h2>
+<b>Tech Stack:</b>
 
 Web Dev:  <br>
 
@@ -19,7 +19,7 @@ Backend Language:  <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=40>
 
 ---
-<h2>My Stats</h2>
+<b>My Stats</b>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Being-RAYtastic&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
 
