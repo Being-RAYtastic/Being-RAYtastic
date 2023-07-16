@@ -4,7 +4,7 @@
 - 🐧 Linux Fanboy (I use Arch btw)
 
 ---
-<b>Tech Stack:</b>
+<b>Tech I Use</b>
 
 Web Dev:  <br>
 
@@ -13,9 +13,7 @@ Web Dev:  <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width=40> 
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width=40>
-
-Backend Language:  <br>
-
+<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=40>
 
 ---
