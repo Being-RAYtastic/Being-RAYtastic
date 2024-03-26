@@ -1,7 +1,7 @@
 <b>About Me:</b>
 - 👋 Hi, I’m @Being-RAYtastic. You can call me 'Ray'
 - 🔭 I’m an Aspiring Software Enginner
-- 🐧 Linux Fanboy (I use Arch btw)
+- 🐧 Linux User
 
 ---
 <b>Tech I Use</b>
