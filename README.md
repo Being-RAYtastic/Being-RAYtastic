@@ -1,6 +1,6 @@
 <b>About Me:</b>
 - 👋 Hi, I’m @Being-RAYtastic. You can call me 'Ray'
-- 🔭 I’m an Aspiring Software Enginner
+- 🔭 I’m a Software Engineer in the making
 - 🐧 Linux User
 
 ---
