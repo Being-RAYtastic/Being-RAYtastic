@@ -12,7 +12,7 @@ Web Dev:  <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width=40> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width=40> 
 <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width=40>
+<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="svelte" width=40> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width=40>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=40>
